@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "productName": "Acer Nitro V R5-7535HS",
+        "price": 2699.00,
+        "productImageSRC": "Acer Nitro V.webp"
+      },
+      {
+        "id": 2,
+        "productName": "Dell U3223QE",
+        "price": 2999.00,
+        "productImageSRC": "Dell U3223QE.jpg"
+      },
+      {
+        "id": 3,
+        "productName": "Intel Core i5-12600kf",
+        "price": 729.00,
+        "productImageSRC": "Intel Core i5.webp"
+      },
+      {
+        "id": 4,
+        "productName": "Samsung QE55S85D",
+        "price": 5999.00,
+        "productImageSRC": "Samsung QE55S85D.webp"
+      },
+      {
+        "id": 5,
+        "productName": "Xiaomi Redmi A3 3/64GB",
+        "price": 249.99,
+        "productImageSRC": "Xiaomi Redmi A3.webp"
+      }
+    ]
+  }
